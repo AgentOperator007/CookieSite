@@ -137,6 +137,6 @@ footer p {
     color: black; /* Make the text invisible */
     font-size: 0.5em; /* Set a small font size */
     /* Scale down the text further */
-    transform-origin: top left; /* Ensure scaling happens from the top-left corner */
+    /* Ensure scaling happens from the top-left corner */
     margin-top: 20px;
 }
