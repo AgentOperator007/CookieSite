@@ -95,7 +95,7 @@ footer p {
     height: 60%; /* Cover 60% of the screen */
     background-color: rgba(0, 0, 0, 0.8); /* Dark transparent background */
     color: white;
-    display: none; /* Hidden by default */
+    display: flex; /* Ensure the popup is always visible */
     justify-content: center;
     align-items: center;
     z-index: 1000;
