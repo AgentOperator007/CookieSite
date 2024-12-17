@@ -85,3 +85,39 @@ footer p {
     color: #fff;
     font-size: 1em;
 }
+
+/* Cookie Consent Popup Styles */
+.cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    font-size: 1.1em;
+    display: none; /* Hidden by default */
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+
+.cookie-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.accept-btn {
+    background-color: #ffcc00;
+    color: #333;
+    font-size: 1em;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.accept-btn:hover {
+    background-color: #ff6600;
+}
