@@ -136,7 +136,7 @@ footer p {
 .invisible-text {
     color: black; /* Make the text invisible */
     font-size: 1px; /* Set a small font size */
-    transform: scale(0.5); /* Scale down the text further */
+    /* Scale down the text further */
     transform-origin: top left; /* Ensure scaling happens from the top-left corner */
     margin-top: 20px;
 }
