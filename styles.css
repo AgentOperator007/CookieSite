@@ -135,6 +135,6 @@ footer p {
 /* Invisible Text Styles */
 .invisible-text {
     color: transparent; /* Make the text invisible */
-    font-size: 1.5em; /* Same font size as visible text */
+    font-size: xx-small; 
     margin-top: 20px;
 }
